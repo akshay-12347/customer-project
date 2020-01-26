@@ -1,0 +1,2 @@
+# customer-project
+simple django
